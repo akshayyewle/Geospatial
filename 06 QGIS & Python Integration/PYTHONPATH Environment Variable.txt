@@ -1,0 +1,4 @@
+C:\\Program Files\\QGIS 3.34.3\\apps\\qgis\\python;
+C:\\Program Files\\QGIS 3.34.3\\apps\\qgis\\python\\plugins;
+C:\\Program Files\\QGIS 3.34.3\\apps\\qt5\\plugins;
+C:\\Program Files\\QGIS 3.34.3\\apps\\gdal\\share\\gdal;
